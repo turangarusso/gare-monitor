@@ -1,0 +1,80 @@
+# Configurazione del monitor gare. Modifica qui, non nel codice.
+
+# Codici CPV inviati ad ANAC come filtro lato server (prefissi da 3 a 8 cifre).
+# 72xxx = servizi informatici, 48xxx = pacchetti software e sistemi.
+cpv:
+  - "720"   # servizi informatici (generico)
+  - "721"   # consulenza hardware
+  - "722"   # programmazione e consulenza software
+  - "723"   # servizi di dati
+  - "724"   # servizi internet
+  - "725"   # servizi informatici vari
+  - "726"   # supporto informatico e consulenza
+  - "727"   # servizi di rete
+  - "728"   # audit e collaudo informatico
+  - "729"   # backup e conversione
+  - "480"   # pacchetti software e sistemi informatici
+  - "482"   # software di rete, internet e intranet
+  - "483"   # software di creazione documenti, grafica, multimedia
+  - "484"   # software per transazioni commerciali e personali
+  - "485"   # software di comunicazione e multimedia
+  - "486"   # software di database e sistemi operativi
+  - "487"   # utility software
+  - "488"   # sistemi di informazione e server
+  - "489"   # software vari
+
+# Finestra di ricerca a ogni run (giorni all'indietro). 3 = margine per i run saltati.
+giorni_finestra: 3
+
+# Quali avvisi notificare subito.
+#   manifestazione = indagine di mercato sotto soglia: è il momento in cui ti candidi
+#   preavviso      = l'ente annuncia che farà una gara
+#   gara           = bando aperto
+# Gli esiti non vengono notificati: finiscono in data/esiti.csv e nel riepilogo del lunedì.
+momenti_avviso: [manifestazione, preavviso, gara]
+
+# Dove. Vuoto = tutta Italia (i servizi IT si fanno spesso da remoto).
+# Le regioni prioritarie compaiono in cima con ⭐.
+solo_regioni: []
+regioni_prioritarie: [Campania]
+
+# Importo stimato (€). Gli avvisi senza importo dichiarato vengono tenuti.
+valore_min: 0
+valore_max: 250000
+
+# Parole che escludono un avviso (cercate in titolo, descrizione e categoria, senza accenti).
+escludi:
+  - toner
+  - fotocopiat
+  - stampant
+  - telefonia
+  - noleggio
+  - rinnovo licen
+  - canone licen
+
+# Parole che lo rendono più interessante per te (+1 punto ciascuna, ordinano i messaggi).
+interesse:
+  - sviluppo
+  - sito
+  - portale
+  - app mobile
+  - applicazion
+  - gestional
+  - piattaforma
+  - cybersecurity
+  - sicurezza informatica
+  - assistenza
+  - manutenzione evolutiva
+  - migrazione
+  - cloud
+  - pnrr
+
+# Riepilogo del mattino.
+riepilogo:
+  max_elementi: 25
+  giorni_scadenza_vicina: 3   # ⏰ se scade entro N giorni
+
+# Riepilogo esiti del lunedì: chi ha comprato servizi IT negli ultimi 7 giorni.
+esiti_lunedi:
+  solo_regioni_prioritarie: true
+  max_elementi: 20

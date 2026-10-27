@@ -1,0 +1,68 @@
+name: Monitor gare
+
+on:
+  schedule:
+    # minuto "storto" (non :00): i cron allo scoccare dell'ora partono in ritardo. Orari in UTC.
+    - cron: "17 5 * * *"       # mattina (~6-7 ora italiana): nuovi avvisi + riepilogo (+ esiti il lunedì)
+    - cron: "17 11,15 * * 1-5" # giorni feriali: solo nuovi avvisi
+  workflow_dispatch:
+    inputs:
+      digest:
+        description: "Invia anche il riepilogo degli avvisi aperti"
+        type: boolean
+        default: false
+      esiti:
+        description: "Invia anche gli esiti degli ultimi 7 giorni"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gare-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # ultima versione, compresi i dati salvati dai run precedenti
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Test
+        run: python -m pytest -q
+
+      - name: Cerca avvisi
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DIGEST: ${{ (github.event.schedule == '17 5 * * *' || github.event.inputs.digest == 'true') && '--digest' || '' }}
+          ESITI: ${{ github.event.inputs.esiti == 'true' && '--esiti' || '' }}
+        run: python monitor.py $DIGEST $ESITI
+
+      - name: Salva dati
+        if: always()
+        run: |
+          git config user.name "gare-monitor-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Aggiorna dati $(date -u '+%Y-%m-%d %H:%M')"
+          # se un altro run ha salvato nel frattempo, riprova (in caso di conflitto vincono i dati di questo run)
+          for i in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1

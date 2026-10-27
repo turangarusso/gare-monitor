@@ -1,0 +1,358 @@
+{
+ "content": [
+  {
+   "idAvviso": "a1",
+   "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+   "codiceScheda": "P1_16",
+   "dataPubblicazione": "2026-10-26T08:00:00.000+00:00",
+   "dataScadenza": "2026-11-12T12:00:00.000+00:00",
+   "templates": [
+    {
+     "template": {
+      "metadata": {
+       "titolo": "Avviso di indagine di mercato per lo sviluppo del nuovo portale istituzionale e app mobile",
+       "descrizione": "Avviso di indagine di mercato per lo sviluppo del nuovo portale istituzionale e app mobile"
+      },
+      "sections": [
+       {
+        "name": "SEZ. A - Committente",
+        "fields": {
+         "soggetti_sa": [
+          {
+           "denominazione_amministrazione": "COMUNE DI POZZUOLI",
+           "codice_fiscale": "80000000000"
+          }
+         ]
+        }
+       },
+       {
+        "name": "SEZ. B - Dati generali",
+        "fields": {}
+       },
+       {
+        "name": "SEZ. C - Oggetto",
+        "items": [
+         {
+          "descrizione": "Avviso di indagine di mercato per lo sviluppo del nuovo portale istituzionale e app mobile",
+          "cig": "B000000000",
+          "cpv": "Servizi di programmazione di software",
+          "natura_principale": "Servizi",
+          "documenti_di_gara_link": "https://ente.example.it/gara/1",
+          "valore_complessivo_stimato": 39000,
+          "luogo_nuts": "ITF33"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "idAvviso": "a2",
+   "tipologia": "BANDI",
+   "codiceScheda": "P1_16",
+   "dataPubblicazione": "2026-10-26T08:00:00.000+00:00",
+   "dataScadenza": "2026-12-01T12:00:00.000+00:00",
+   "templates": [
+    {
+     "template": {
+      "metadata": {
+       "titolo": "Procedura aperta per servizi di gestione del data center regionale",
+       "descrizione": "Procedura aperta per servizi di gestione del data center regionale"
+      },
+      "sections": [
+       {
+        "name": "SEZ. A - Committente",
+        "fields": {
+         "soggetti_sa": [
+          {
+           "denominazione_amministrazione": "REGIONE LOMBARDIA",
+           "codice_fiscale": "80000000000"
+          }
+         ]
+        }
+       },
+       {
+        "name": "SEZ. B - Dati generali",
+        "fields": {}
+       },
+       {
+        "name": "SEZ. C - Oggetto",
+        "items": [
+         {
+          "descrizione": "Procedura aperta per servizi di gestione del data center regionale",
+          "cig": "B000000000",
+          "cpv": "Servizi di gestione di impianti informatici",
+          "natura_principale": "Servizi",
+          "documenti_di_gara_link": "https://ente.example.it/gara/1",
+          "valore_complessivo_stimato": 1200000,
+          "luogo_nuts": "ITC4C"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "idAvviso": "a3",
+   "tipologia": "BANDI",
+   "codiceScheda": "P1_16",
+   "dataPubblicazione": "2026-10-26T08:00:00.000+00:00",
+   "dataScadenza": "2026-11-20T12:00:00.000+00:00",
+   "templates": [
+    {
+     "template": {
+      "metadata": {
+       "titolo": "Fornitura di toner e materiale per stampanti",
+       "descrizione": "Fornitura di toner e materiale per stampanti"
+      },
+      "sections": [
+       {
+        "name": "SEZ. A - Committente",
+        "fields": {
+         "soggetti_sa": [
+          {
+           "denominazione_amministrazione": "ASL NAPOLI 1 CENTRO",
+           "codice_fiscale": "80000000000"
+          }
+         ]
+        }
+       },
+       {
+        "name": "SEZ. B - Dati generali",
+        "fields": {}
+       },
+       {
+        "name": "SEZ. C - Oggetto",
+        "items": [
+         {
+          "descrizione": "Fornitura di toner e materiale per stampanti",
+          "cig": "B000000000",
+          "cpv": "Software di stampa",
+          "natura_principale": "Servizi",
+          "documenti_di_gara_link": "https://ente.example.it/gara/1",
+          "valore_complessivo_stimato": 20000,
+          "luogo_nuts": "ITF33"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "idAvviso": "a4",
+   "tipologia": "RISULTATI",
+   "codiceScheda": "P1_16",
+   "dataPubblicazione": "2026-10-26T08:00:00.000+00:00",
+   "dataScadenza": null,
+   "templates": [
+    {
+     "template": {
+      "metadata": {
+       "titolo": "Affidamento servizio di assistenza sistemistica e manutenzione rete",
+       "descrizione": "Affidamento servizio di assistenza sistemistica e manutenzione rete"
+      },
+      "sections": [
+       {
+        "name": "SEZ. A - Committente",
+        "fields": {
+         "soggetti_sa": [
+          {
+           "denominazione_amministrazione": "COMUNE DI SALERNO",
+           "codice_fiscale": "80000000000"
+          }
+         ]
+        }
+       },
+       {
+        "name": "SEZ. B - Dati generali",
+        "fields": {}
+       },
+       {
+        "name": "SEZ. C - Oggetto",
+        "items": [
+         {
+          "descrizione": "Affidamento servizio di assistenza sistemistica e manutenzione rete",
+          "cig": "B000000000",
+          "cpv": "Servizi di supporto informatico",
+          "natura_principale": "Servizi",
+          "documenti_di_gara_link": "https://ente.example.it/gara/1",
+          "valore_complessivo_stimato": 60000,
+          "luogo_nuts": "ITF35",
+          "aggiudicatari": [
+           {
+            "importo": 52800.5,
+            "soggetti": [
+             {
+              "denominazione": "ROSSI INFORMATICA SRL",
+              "codice_fiscale": "01234567890"
+             }
+            ]
+           }
+          ],
+          "valore_offerta_vincente": 52800.5
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "idAvviso": "a5",
+   "tipologia": "AVVISI_DI_PREINFORMAZIONE",
+   "codiceScheda": "P1_16",
+   "dataPubblicazione": "2026-10-26T08:00:00.000+00:00",
+   "dataScadenza": null,
+   "templates": [
+    {
+     "template": {
+      "metadata": {
+       "titolo": "Preinformazione: migrazione in cloud dei servizi comunali (PNRR 1.2)",
+       "descrizione": "Preinformazione: migrazione in cloud dei servizi comunali (PNRR 1.2)"
+      },
+      "sections": [
+       {
+        "name": "SEZ. A - Committente",
+        "fields": {
+         "soggetti_sa": [
+          {
+           "denominazione_amministrazione": "COMUNE DI CASORIA",
+           "codice_fiscale": "80000000000"
+          }
+         ]
+        }
+       },
+       {
+        "name": "SEZ. B - Dati generali",
+        "fields": {}
+       },
+       {
+        "name": "SEZ. C - Oggetto",
+        "items": [
+         {
+          "descrizione": "Preinformazione: migrazione in cloud dei servizi comunali (PNRR 1.2)",
+          "cig": "B000000000",
+          "cpv": "Servizi informatici",
+          "natura_principale": "Servizi",
+          "documenti_di_gara_link": "https://ente.example.it/gara/1",
+          "luogo_istat": "063021"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "idAvviso": "a6",
+   "tipologia": "BANDI",
+   "codiceScheda": "P1_16",
+   "dataPubblicazione": "2026-10-26T08:00:00.000+00:00",
+   "dataScadenza": "2026-10-20T12:00:00.000+00:00",
+   "templates": [
+    {
+     "template": {
+      "metadata": {
+       "titolo": "Servizio di cybersecurity per il triennio",
+       "descrizione": "Servizio di cybersecurity per il triennio"
+      },
+      "sections": [
+       {
+        "name": "SEZ. A - Committente",
+        "fields": {
+         "soggetti_sa": [
+          {
+           "denominazione_amministrazione": "UNIVERSITA DEGLI STUDI DI FERRARA",
+           "codice_fiscale": "80000000000"
+          }
+         ]
+        }
+       },
+       {
+        "name": "SEZ. B - Dati generali",
+        "fields": {}
+       },
+       {
+        "name": "SEZ. C - Oggetto",
+        "items": [
+         {
+          "descrizione": "Servizio di cybersecurity per il triennio",
+          "cig": "B000000000",
+          "cpv": "Servizi di sicurezza informatica",
+          "natura_principale": "Servizi",
+          "documenti_di_gara_link": "https://ente.example.it/gara/1",
+          "valore_complessivo_stimato": 180000,
+          "luogo_nuts": "ITH56"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "idAvviso": "a7",
+   "tipologia": "BANDI",
+   "codiceScheda": "P1_16",
+   "dataPubblicazione": "2026-10-26T08:00:00.000+00:00",
+   "dataScadenza": "2026-10-29T12:00:00.000+00:00",
+   "templates": [
+    {
+     "template": {
+      "metadata": {
+       "titolo": "Servizio di assistenza applicativa al gestionale protocollo",
+       "descrizione": "Servizio di assistenza applicativa al gestionale protocollo"
+      },
+      "sections": [
+       {
+        "name": "SEZ. A - Committente",
+        "fields": {
+         "soggetti_sa": [
+          {
+           "denominazione_amministrazione": "AZIENDA OSPEDALIERA DI PERUGIA",
+           "codice_fiscale": "80000000000"
+          }
+         ]
+        }
+       },
+       {
+        "name": "SEZ. B - Dati generali",
+        "fields": {}
+       },
+       {
+        "name": "SEZ. C - Oggetto",
+        "items": [
+         {
+          "descrizione": "Servizio di assistenza applicativa al gestionale protocollo",
+          "cig": "B000000000",
+          "cpv": "Servizi di manutenzione di software",
+          "natura_principale": "Servizi",
+          "documenti_di_gara_link": "https://ente.example.it/gara/1",
+          "valore_complessivo_stimato": 95000,
+          "luogo_nuts": "ITI21"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "idAvviso": "rotto",
+   "tipologia": "BANDI",
+   "templates": []
+  }
+ ],
+ "count": 8,
+ "firstPaginationToken": null
+}
