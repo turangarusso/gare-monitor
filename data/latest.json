@@ -1,0 +1,97 @@
+{
+ "updated": "2026-10-27T18:36:03Z",
+ "avvisi": [
+  {
+   "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
+   "momento": "manifestazione",
+   "titolo": "SERVIZI DI MIGRAZIONE DELL’AMBIENTE SAP, INFRASTRUTTURA CLOUD GESTIONE SISTEMISTICA, APPLICATIVA E SERVIZI PROFESSIONALI CONNESSI",
+   "descrizione": "SERVIZI DI MIGRAZIONE DELL’AMBIENTE SAP, INFRASTRUTTURA CLOUD GESTIONE SISTEMISTICA, APPLICATIVA E SERVIZI PROFESSIONALI CONNESSI",
+   "ente": "AZIENDA MULTISERVIZI DI IGIENE AMBIENTALE DI VERONA S.P.A.",
+   "cf_ente": "02737960233",
+   "cig": "BD813251FD",
+   "categorie": [
+    "Servizi di assistenza software"
+   ],
+   "natura": "servizi",
+   "valore": 210000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Verona",
+   "regione": null,
+   "pubblicazione": "2026-10-27",
+   "scadenza": "2026-11-10",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
+   "link_gara": "https://amiavr.traspare.com/announcements/298",
+   "punteggio": 4
+  },
+  {
+   "id": "daddf24d-96db-43da-8916-392e8d73192c",
+   "momento": "gara",
+   "titolo": "PROCEDURA APERTA, PER L’AFFIDAMENTO DEL SERVIZIO DI SVILUPPI EVOLUTIVI DEL SISTEMA INFORMATIVO-GESTIONALE BASATO SU TECNOLOGIA MICROSOFT DYNAMIC 365 BUSINESS CENTRAL IN VERSIONE CLOUD SAAS, PLAFOND ASSISTENZA, ACQUISI…",
+   "descrizione": "PROCEDURA APERTA, PER L’AFFIDAMENTO DEL SERVIZIO DI SVILUPPI EVOLUTIVI DEL SISTEMA INFORMATIVO-GESTIONALE BASATO SU TECNOLOGIA MICROSOFT DYNAMIC 365 BUSINESS CENTRAL IN VERSIONE CLOUD SAAS, PLAFOND ASSISTENZA, ACQUISIZIONE EXTENSIONS E FORNITURA LICENZE MICROSOFT -BIENNIO 2027-2028, IN FAVORE DELL’AGENZIA PER LA FORMAZIONE, L’ORIENTAMENTO E IL LAVORO DELLA PROVINCIA DI MONZA E DELLA BRIANZA (AFOL MB), CON IL CRITERIO DELL’OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA SULLA BASE DEL MIGLIOR RAPPORTO QUALITÀ/PREZZO",
+   "ente": "PROVINCIA DI MONZA E DELLA BRIANZA",
+   "cf_ente": "94616010156",
+   "cig": "BD7D65B7D0",
+   "categorie": [
+    "Servizi di manutenzione e riparazione di software"
+   ],
+   "natura": "servizi",
+   "valore": 175000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Monza e della Brianza",
+   "regione": null,
+   "pubblicazione": "2026-10-26",
+   "scadenza": "2026-11-17",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/daddf24d-96db-43da-8916-392e8d73192c",
+   "link_gara": "https://sua-mbcmm.acquistitelematici.it/tender/719",
+   "punteggio": 3
+  },
+  {
+   "id": "cfa324f9-1bd7-4f00-91ed-859eb27e6849",
+   "momento": "manifestazione",
+   "titolo": "Lotto 1",
+   "descrizione": "AVVISO VOLONTARIO PER LA TRASPARENZA EX ANTE PRELIMINARE ALL'ACQUISIZIONE CON PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO DI GARA, EX ART. 76 D.LGS N. 36/2023, DI PRODOTTI INFUNGIBILI - VERIFICA CONDIZIONI INFUNGIBILITA'.",
+   "ente": "ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLA LOMBARDIA E DELL'EMILIA ROMAGNA BRUNO UBERTINI ENTE SANITARIO DI DIRITTO PUBBLICO.",
+   "cf_ente": "00284840170",
+   "cig": "BD849861F6",
+   "categorie": [
+    "Servizi di fornitura di software"
+   ],
+   "natura": "servizi",
+   "valore": 74950.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "ITALIA",
+   "regione": "Lombardia",
+   "pubblicazione": "2026-10-27",
+   "scadenza": "2026-11-10",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/cfa324f9-1bd7-4f00-91ed-859eb27e6849",
+   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/f7247e46a3d09a90",
+   "punteggio": 1
+  },
+  {
+   "id": "de495a72-45e1-41ed-bd7f-f46299242b8c",
+   "momento": "manifestazione",
+   "titolo": "Fornitura di licenze software LIFERAY per l'anno 2027",
+   "descrizione": "Fornitura di licenze software LIFERAY per l'anno 2027",
+   "ente": "INARCASSA CASSA NAZIONALE DI PREVIDENZA ED ASSISTENZA PER GLI INGEGNERI ED ARCHITETTI LIBERI PROFESSIONISTI",
+   "cf_ente": "80122170584",
+   "cig": "BD853A3A76",
+   "categorie": [
+    "Pacchetti software per server web"
+   ],
+   "natura": "forniture",
+   "valore": 180000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Roma",
+   "regione": "Lazio",
+   "pubblicazione": "2026-10-27",
+   "scadenza": "2026-11-11",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/de495a72-45e1-41ed-bd7f-f46299242b8c",
+   "link_gara": "https://adepp-appalti.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G12270",
+   "punteggio": 1
+  }
+ ]
+}
