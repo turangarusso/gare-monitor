@@ -89,6 +89,14 @@ def test_normalizza_campi():
     assert a["a5"].luogo == "063021"
 
 
+def test_titolo_solo_lotto():
+    raw = json.loads(json.dumps(PAGE["content"][1]))
+    raw["templates"][0]["template"]["metadata"]["titolo"] = "Lotto 1"
+    av = anac.normalizza(raw)
+    assert av.titolo.startswith("Procedura aperta per servizi di gestione")
+    assert av.titolo.endswith("(Lotto 1)")
+
+
 def test_fetch_parametri_e_gruppi(api, cfg):
     avvisi = anac.fetch(cfg, OGGI, log=lambda *_: None)
     assert len(avvisi) == 7                      # deduplicati tra i gruppi CPV
@@ -106,7 +114,15 @@ def test_fetch_parametri_e_gruppi(api, cfg):
     ("ITC4C", None, "Lombardia"),
     ("063021", None, "Campania"),
     (None, "Comune di Benevento", "Campania"),
-    (None, "Comune di Bologna", None),
+    (None, "Comune di Bologna", "Emilia-Romagna"),
+    # formati visti nel primo run reale
+    ("Verona", None, "Veneto"),
+    ("Monza e della Brianza", None, "Lombardia"),
+    ("Roma", None, "Lazio"),
+    ("ITALIA", "COMUNE DI SALERNO", "Campania"),
+    ("ITALIA", "INARCASSA CASSA NAZIONALE DI PREVIDENZA", None),
+    ("ITALIA", "AZIENDA USL DELLA ROMAGNA", None),
+    ("ITALIA", "REGIONE CAMPANIA", "Campania"),
 ])
 def test_regione(luogo, ente, atteso):
     av = anac.normalizza(PAGE["content"][0])

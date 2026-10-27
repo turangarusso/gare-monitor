@@ -18,6 +18,7 @@ Se ANAC cambia l'API, qui si rompe: monitor.py lo segnala su Telegram dopo 2 run
 
 from __future__ import annotations
 
+import re
 import time
 from datetime import date, datetime, timedelta
 
@@ -113,6 +114,9 @@ def normalizza(raw: dict) -> Avviso | None:
     momento = MOMENTI.get(raw.get("tipologia"), "altro")
     descrizione = _clean(_first(meta.get("descrizione"), first.get("descrizione")))
     titolo = _clean(_first(meta.get("titolo"), first.get("descrizione"), descrizione)) or "(senza titolo)"
+    # dai run reali: a volte il titolo è solo "Lotto 1"
+    if re.fullmatch(r"(?i)lotto\s*n?\.?\s*\d+", titolo) and descrizione and descrizione.lower() != titolo.lower():
+        titolo = f"{descrizione} ({titolo})"
     if len(titolo) > 220:
         titolo = titolo[:217].rstrip() + "…"
 

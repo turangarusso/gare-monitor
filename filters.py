@@ -7,6 +7,7 @@ import unicodedata
 from datetime import date
 
 from models import Avviso
+from province import PROVINCE
 
 # NUTS 2 (versione 2021) -> regione
 NUTS = {
@@ -22,13 +23,7 @@ NUTS = {
 ISTAT_PROVINCE = {"061": "Campania", "062": "Campania", "063": "Campania",
                   "064": "Campania", "065": "Campania"}
 
-# Fallback testuale: capoluoghi e province (solo le regioni più probabili da indicare a mano).
-PAROLE_REGIONE = {
-    "Campania": ["campania", "napoli", "caserta", "salerno", "avellino", "benevento"],
-    "Lazio": ["lazio", "roma", "latina", "frosinone", "viterbo", "rieti"],
-    "Lombardia": ["lombardia", "milano", "bergamo", "brescia"],
-    "Puglia": ["puglia", "bari", "lecce", "taranto", "foggia", "brindisi"],
-}
+REGIONI = sorted(set(NUTS.values()))
 
 
 def norm(text: str | None) -> str:
@@ -43,10 +38,20 @@ def regione_di(av: Avviso) -> str | None:
         return NUTS.get(luogo[:4])
     if re.match(r"^\d{6}$", luogo):
         return ISTAT_PROVINCE.get(luogo[:3])
-    testo = f" {norm(av.luogo)} {norm(av.ente)} "
-    for regione, parole in PAROLE_REGIONE.items():
-        if any(re.search(rf"\b{p}\b", testo) for p in parole):
+    # Dai run reali: ANAC scrive il luogo come nome di provincia ("Verona", "Monza e della Brianza")
+    # oppure "ITALIA" quando l'appalto non ha un luogo preciso.
+    luogo_n = norm(av.luogo)
+    if luogo_n in PROVINCE:
+        return PROVINCE[luogo_n]
+    for regione in REGIONI:
+        if luogo_n == norm(regione):
             return regione
+    # Fallback sul nome dell'ente: "COMUNE DI SALERNO", "REGIONE CAMPANIA", "ASL NAPOLI 1".
+    # Solo nomi di provincia/regione interi, i più lunghi prima ("monza e della brianza" prima di "monza").
+    ente = f" {norm(av.ente)} "
+    for nome in sorted([*PROVINCE, *map(norm, REGIONI)], key=len, reverse=True):
+        if re.search(rf"\b{re.escape(nome)}\b", ente):
+            return PROVINCE.get(nome) or next(r for r in REGIONI if norm(r) == nome)
     return None
 
 
