@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:36:03Z",
+ "updated": "2026-10-28T11:20:54Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -17,7 +17,7 @@
    "valore_aggiudicato": null,
    "aggiudicatari": [],
    "luogo": "Verona",
-   "regione": null,
+   "regione": "Veneto",
    "pubblicazione": "2026-10-27",
    "scadenza": "2026-11-10",
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -40,7 +40,7 @@
    "valore_aggiudicato": null,
    "aggiudicatari": [],
    "luogo": "Monza e della Brianza",
-   "regione": null,
+   "regione": "Lombardia",
    "pubblicazione": "2026-10-26",
    "scadenza": "2026-11-17",
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/daddf24d-96db-43da-8916-392e8d73192c",
@@ -50,7 +50,7 @@
   {
    "id": "cfa324f9-1bd7-4f00-91ed-859eb27e6849",
    "momento": "manifestazione",
-   "titolo": "Lotto 1",
+   "titolo": "AVVISO VOLONTARIO PER LA TRASPARENZA EX ANTE PRELIMINARE ALL'ACQUISIZIONE CON PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO DI GARA, EX ART. 76 D.LGS N. 36/2023, DI PRODOTTI INFUNGIBILI - VERIFICA CONDIZION…",
    "descrizione": "AVVISO VOLONTARIO PER LA TRASPARENZA EX ANTE PRELIMINARE ALL'ACQUISIZIONE CON PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO DI GARA, EX ART. 76 D.LGS N. 36/2023, DI PRODOTTI INFUNGIBILI - VERIFICA CONDIZIONI INFUNGIBILITA'.",
    "ente": "ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLA LOMBARDIA E DELL'EMILIA ROMAGNA BRUNO UBERTINI ENTE SANITARIO DI DIRITTO PUBBLICO.",
    "cf_ente": "00284840170",
