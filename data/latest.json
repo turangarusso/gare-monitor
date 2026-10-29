@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T17:11:38Z",
+ "updated": "2026-10-29T11:31:04Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -91,6 +91,75 @@
    "scadenza": "2026-11-11",
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/de495a72-45e1-41ed-bd7f-f46299242b8c",
    "link_gara": "https://adepp-appalti.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G12270",
+   "punteggio": 1
+  },
+  {
+   "id": "e04da944-f9e8-467c-ab23-df7f31b8e6f3",
+   "momento": "manifestazione",
+   "titolo": "Avviso di indagine di mercato per la selezione, tramite piattaforma elettronica, di operatori economici da invitare alla gara mediante RDO Semplice ad inviti sul MePA (Mercato Elettronico della Pubblica Amministrazion…",
+   "descrizione": "Avviso di indagine di mercato per la selezione, tramite piattaforma elettronica, di operatori economici da invitare alla gara mediante RDO Semplice ad inviti sul MePA (Mercato Elettronico della Pubblica Amministrazione) ai sensi dell'art. 50, comma 1, lettera e), del D.Lgs. 36/2023 per l'affidamento del servizio di assistenza e manutenzione degli asset HPE dell'ASL Città di Torino, comprensivo di servizio di reperibilità sistemistica e servizi professionali a consumo, per 12 mesi, a decorrere dal 01.01.2027 al 31.12.2027. Importo a base d'asta pari ad euro 215.000,00 oneri fiscali esclusi.",
+   "ente": "AZIENDA SANITARIA LOCALE 'CITTA' DI TORINO'",
+   "cf_ente": "11632570013",
+   "cig": "BD90611924",
+   "categorie": [
+    "Servizi di assistenza tecnica informatica"
+   ],
+   "natura": "servizi",
+   "valore": 215000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "ITALIA",
+   "regione": "Piemonte",
+   "pubblicazione": "2026-10-29",
+   "scadenza": "2026-11-16",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/e04da944-f9e8-467c-ab23-df7f31b8e6f3",
+   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/68d2e85810c59eb9",
+   "punteggio": 3
+  },
+  {
+   "id": "cf53ab7a-73df-4f5c-8177-163b7863b648",
+   "momento": "manifestazione",
+   "titolo": "2600862 - licenze aggiuntive Asset Management (Octave EAM)",
+   "descrizione": "2600862 - licenze aggiuntive Asset Management (Octave EAM)",
+   "ente": "CAP HOLDING S.P.A.",
+   "cf_ente": "13187590156",
+   "cig": "BD908A8C43",
+   "categorie": [
+    "Suite di pacchetti software"
+   ],
+   "natura": "servizi",
+   "valore": 44208.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Lombardia",
+   "regione": "Lombardia",
+   "pubblicazione": "2026-10-29",
+   "scadenza": "2026-10-30",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/cf53ab7a-73df-4f5c-8177-163b7863b648",
+   "link_gara": "https://acquisti.gruppocap.it/",
+   "punteggio": 1
+  },
+  {
+   "id": "4aa0c11f-fad3-43b6-9322-8fa7a14b180b",
+   "momento": "manifestazione",
+   "titolo": "INDAGINE ESPLORATIVA DI MERCATO VOLTA A RACCOGLIERE PREVENTIVI FINALIZZATI ALL AFFIDAMENTO DI UN SERVIZIO ACCESSO AI MODELLI DI INTELLIGENZA ARTIFICIALE DI OPENAI E DI ALTRI PRODUTTORI PRESENTI NEL CATALOGO MICROSOFT…",
+   "descrizione": "INDAGINE ESPLORATIVA DI MERCATO VOLTA A RACCOGLIERE PREVENTIVI FINALIZZATI ALL AFFIDAMENTO DI UN SERVIZIO ACCESSO AI MODELLI DI INTELLIGENZA ARTIFICIALE DI OPENAI E DI ALTRI PRODUTTORI PRESENTI NEL CATALOGO MICROSOFT FOUNDRY",
+   "ente": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+   "cf_ente": "80054330586",
+   "cig": "BD8CFDABD3",
+   "categorie": [
+    "Servizi di fornitura di software"
+   ],
+   "natura": "servizi",
+   "valore": 39900.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Pisa",
+   "regione": "Toscana",
+   "pubblicazione": "2026-10-29",
+   "scadenza": "2026-11-13",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/4aa0c11f-fad3-43b6-9322-8fa7a14b180b",
+   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/52998221a04c46f0",
    "punteggio": 1
   }
  ]
