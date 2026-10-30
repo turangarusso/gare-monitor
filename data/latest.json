@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:27:16Z",
+ "updated": "2026-10-30T11:24:33Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -161,6 +161,52 @@
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/4aa0c11f-fad3-43b6-9322-8fa7a14b180b",
    "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/52998221a04c46f0",
    "punteggio": 1
+  },
+  {
+   "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
+   "momento": "gara",
+   "titolo": "ID 8517 - Fornitura di codici a catalogo per manutenzione della piattaforma firewalling utilizzata per le scuole per un periodo di 24 mesi",
+   "descrizione": "ID 8517 - Fornitura di codici a catalogo per manutenzione della piattaforma firewalling utilizzata per le scuole per un periodo di 24 mesi",
+   "ente": "INSIEL INFORMATICA PER IL SISTEMA DEGLI ENTI LOCALI SPA",
+   "cf_ente": "00118410323",
+   "cig": "BD8D0A0F37",
+   "categorie": [
+    "Pacchetti software per reti"
+   ],
+   "natura": "forniture",
+   "valore": 250000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Trieste",
+   "regione": "Friuli-Venezia Giulia",
+   "pubblicazione": "2026-10-30",
+   "scadenza": "2026-12-03",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/41e04ab1-7efb-4590-880b-bdd44382ec33",
+   "link_gara": "https://trasparenza.insiel.it/procedure?p=8517",
+   "punteggio": 1
+  },
+  {
+   "id": "1a586798-7548-47f4-ba88-29c994839b6d",
+   "momento": "gara",
+   "titolo": "Servizio di aggiornamento del Laboratory Information Management System per la gestione delle attività del Laboratorio Centrale per la Banca Dati Nazionale del DNA",
+   "descrizione": "Servizio di aggiornamento del Laboratory Information Management System per la gestione delle attività del Laboratorio Centrale per la Banca Dati Nazionale del DNA",
+   "ente": "DIPARTIMENTO AMMINISTRAZIONE PENITENZIARIA",
+   "cf_ente": "80252050580",
+   "cig": "BD8A6E0B34",
+   "categorie": [
+    "Programmazione di software e servizi di consulenza"
+   ],
+   "natura": "servizi",
+   "valore": 190000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Roma",
+   "regione": "Lazio",
+   "pubblicazione": "2026-10-30",
+   "scadenza": "2026-12-04",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/1a586798-7548-47f4-ba88-29c994839b6d",
+   "link_gara": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/96e95ef9b77dc020",
+   "punteggio": 0
   }
  ]
 }
