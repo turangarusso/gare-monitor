@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:02:08Z",
+ "updated": "2026-10-31T10:56:08Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -115,29 +115,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/e04da944-f9e8-467c-ab23-df7f31b8e6f3",
    "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/68d2e85810c59eb9",
    "punteggio": 3
-  },
-  {
-   "id": "cf53ab7a-73df-4f5c-8177-163b7863b648",
-   "momento": "manifestazione",
-   "titolo": "2600862 - licenze aggiuntive Asset Management (Octave EAM)",
-   "descrizione": "2600862 - licenze aggiuntive Asset Management (Octave EAM)",
-   "ente": "CAP HOLDING S.P.A.",
-   "cf_ente": "13187590156",
-   "cig": "BD908A8C43",
-   "categorie": [
-    "Suite di pacchetti software"
-   ],
-   "natura": "servizi",
-   "valore": 44208.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Lombardia",
-   "regione": "Lombardia",
-   "pubblicazione": "2026-10-29",
-   "scadenza": "2026-10-30",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/cf53ab7a-73df-4f5c-8177-163b7863b648",
-   "link_gara": "https://acquisti.gruppocap.it/",
-   "punteggio": 1
   },
   {
    "id": "4aa0c11f-fad3-43b6-9322-8fa7a14b180b",
