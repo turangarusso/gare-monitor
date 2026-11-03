@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:48:08Z",
+ "updated": "2026-11-03T12:48:17Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -183,6 +183,55 @@
    "scadenza": "2026-12-04",
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/1a586798-7548-47f4-ba88-29c994839b6d",
    "link_gara": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/96e95ef9b77dc020",
+   "punteggio": 0
+  },
+  {
+   "id": "597818e4-f2c5-4bc8-abe2-3b1cee5b586d",
+   "momento": "manifestazione",
+   "titolo": "APPALTO PER LA FORNITURA DI LICENZE SOFTWARE E SERVIZI ACCESSORI PER LA DURATA DI MESI 12 IN FAVORE DELLA POLIZIA LOCALE DI VENEZIA NELL’AMBITO DEL PROGETTO FINANZIATO DALLA COMMISSIONE EUROPEA NR. 101101938 - “INTERC…",
+   "descrizione": "APPALTO PER LA FORNITURA DI LICENZE SOFTWARE E SERVIZI ACCESSORI PER LA DURATA DI MESI 12 IN FAVORE DELLA POLIZIA LOCALE DI VENEZIA NELL’AMBITO DEL PROGETTO FINANZIATO DALLA COMMISSIONE EUROPEA NR. 101101938 - “INTERCEPT ONLINE RECRUITMENT AND ADVERTISEMENT TO DISRUPT THE THB MODEL”- INTERCEPTED",
+   "ente": "COMUNE DI VENEZIA",
+   "cf_ente": "00339370272",
+   "cig": "BD9EBA1A07",
+   "categorie": [
+    "Pacchetti software analitici o scientifici",
+    "Pacchetti software analitici o scientifici",
+    "Pacchetti software analitici o scientifici",
+    "Pacchetti software analitici o scientifici"
+   ],
+   "natura": "servizi",
+   "valore": 158357.4,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Venezia",
+   "regione": "Veneto",
+   "pubblicazione": "2026-11-03",
+   "scadenza": "2026-11-16",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/597818e4-f2c5-4bc8-abe2-3b1cee5b586d",
+   "link_gara": "https://venezia.acquistitelematici.it/tender/1497",
+   "punteggio": 1
+  },
+  {
+   "id": "b898f078-d220-4fd5-8ce1-cd39716e563c",
+   "momento": "gara",
+   "titolo": "6712558 - lotto 1",
+   "descrizione": "FASC 288 Abbonamento annuale licenza applicativo software Foreflight Military Flight Bag Performance e licenza per impiego cartografia elettronica aeronautica Jeppesen",
+   "ente": "STAZIONE AEROMOBILI DELLA MARINA MILITARE",
+   "cf_ente": "80021830734",
+   "cig": "BD9D59CE39",
+   "categorie": [
+    "Pacchetti software per la gestione di licenze"
+   ],
+   "natura": "forniture",
+   "valore": 180000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": null,
+   "regione": null,
+   "pubblicazione": "2026-11-03",
+   "scadenza": "2026-11-09",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/b898f078-d220-4fd5-8ce1-cd39716e563c",
+   "link_gara": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/8c07f9780fc728ba",
    "punteggio": 0
   }
  ]
