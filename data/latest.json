@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:27:55Z",
+ "updated": "2026-11-04T12:59:09Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -232,6 +232,52 @@
    "scadenza": "2026-11-09",
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/b898f078-d220-4fd5-8ce1-cd39716e563c",
    "link_gara": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/8c07f9780fc728ba",
+   "punteggio": 0
+  },
+  {
+   "id": "4c209e51-7d40-4930-9015-dfc0db9268be",
+   "momento": "gara",
+   "titolo": "Fornitura della piattaforma digitale integrata adattata all'interoperabilità con la piattaforma digitale di Ateneo, a supporto della Comunità di pratica e del Centro di Ricerca DARE della durata di 60 mesi, con pagame…",
+   "descrizione": "Fornitura della piattaforma digitale integrata adattata all'interoperabilità con la piattaforma digitale di Ateneo, a supporto della Comunità di pratica e del Centro di Ricerca DARE della durata di 60 mesi, con pagamento anticipato, nell'ambito dell'iniziativa di ricerca denominata DARE - Digital Lifelong Prevention",
+   "ente": "UNIVERSITA' DEGLI STUDI DI PALERMO",
+   "cf_ente": "80023730825",
+   "cig": "BDA1E19FF1",
+   "categorie": [
+    "Servizi di fornitura di software"
+   ],
+   "natura": "servizi",
+   "valore": 120000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Palermo",
+   "regione": "Sicilia",
+   "pubblicazione": "2026-11-04",
+   "scadenza": "2026-11-10",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/4c209e51-7d40-4930-9015-dfc0db9268be",
+   "link_gara": "https://unipa.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G59652",
+   "punteggio": 1
+  },
+  {
+   "id": "7681a087-bc14-4218-8380-99c7aa655cfb",
+   "momento": "gara",
+   "titolo": "AFFIDAMENTO DEL SERVIZIO DI DEPOSITO, CUSTODIA E GESTIONE IN OUTSOURCING DELL'ARCHIVIO DOCUMENTALE – CARTACEO DEL COMUNE DI MARCIANISE PER IL PERIODO DI ANNI TRE",
+   "descrizione": "AFFIDAMENTO DEL SERVIZIO DI DEPOSITO, CUSTODIA E GESTIONE IN OUTSOURCING DELL'ARCHIVIO DOCUMENTALE – CARTACEO DEL COMUNE DI MARCIANISE PER IL PERIODO DI ANNI TRE",
+   "ente": "COMUNE DI MARCIANISE",
+   "cf_ente": "93012960618",
+   "cig": "BD1F40FEB7",
+   "categorie": [
+    "Servizi di gestione documenti"
+   ],
+   "natura": "servizi",
+   "valore": 120296.64,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "MARCIANISE",
+   "regione": null,
+   "pubblicazione": "2026-11-04",
+   "scadenza": "2026-11-06",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/7681a087-bc14-4218-8380-99c7aa655cfb",
+   "link_gara": "https://comunemarcianise.traspare.com/announcements/491",
    "punteggio": 0
   }
  ]
