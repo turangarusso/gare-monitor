@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:40:27Z",
+ "updated": "2026-11-05T13:11:58Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -277,6 +277,98 @@
    "pubblicazione": "2026-11-04",
    "scadenza": "2026-11-06",
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/7681a087-bc14-4218-8380-99c7aa655cfb",
+   "link_gara": "https://comunemarcianise.traspare.com/announcements/491",
+   "punteggio": 0
+  },
+  {
+   "id": "f0258ca7-fac9-4a8a-bb3d-45a946b02b36",
+   "momento": "manifestazione",
+   "titolo": "Manutenzione apparecchiature aziendali con servizi Dell",
+   "descrizione": "Manutenzione apparecchiature aziendali con servizi Dell",
+   "ente": "AZIENDA SANITARIA LOCALE CN1",
+   "cf_ente": "01128930045",
+   "cig": "BDA973B637",
+   "categorie": [
+    "Servizi di assistenza tecnica informatica"
+   ],
+   "natura": "servizi",
+   "valore": 210000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Cuneo",
+   "regione": "Piemonte",
+   "pubblicazione": "2026-11-05",
+   "scadenza": "2026-11-20",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/f0258ca7-fac9-4a8a-bb3d-45a946b02b36",
+   "link_gara": "https://www.sintel.regione.lombardia.it/eprocdata/sintelSearch.xhtml",
+   "punteggio": 2
+  },
+  {
+   "id": "91cd5f30-240b-48d0-8ede-c0d6f9367057",
+   "momento": "manifestazione",
+   "titolo": "Affidamento dei “Servizi di supporto alla gestione inventariale dei beni mobili dell’Università del Piemonte Orientale”, per la durata di 4 (quattro) anni.",
+   "descrizione": "Affidamento dei “Servizi di supporto alla gestione inventariale dei beni mobili dell’Università del Piemonte Orientale”, per la durata di 4 (quattro) anni.",
+   "ente": "UNIVERSITA' DEGLI STUDI DEL PIEMONTE ORIENTALE 'AMEDEO AVOGADRO'",
+   "cf_ente": "94021400026",
+   "cig": "BDA72A11DA",
+   "categorie": [
+    "Servizi di gestione dati"
+   ],
+   "natura": "servizi",
+   "valore": 142500.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Vercelli",
+   "regione": "Piemonte",
+   "pubblicazione": "2026-11-05",
+   "scadenza": "2026-11-24",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/91cd5f30-240b-48d0-8ede-c0d6f9367057",
+   "link_gara": "https://portalegareuniupo.traspare.com/announcements/10786",
+   "punteggio": 1
+  },
+  {
+   "id": "eb23aeb3-fcd5-4c3e-a630-eb5e70a2ec0f",
+   "momento": "gara",
+   "titolo": "FASC 288 Abbonamento annuale licenza applicativo software Foreflight Military Flight Bag Performance e licenza per impiego cartografia elettronica aeronautica Jeppesen",
+   "descrizione": "FASC 288 Abbonamento annuale licenza applicativo software Foreflight Military Flight Bag Performance e licenza per impiego cartografia elettronica aeronautica Jeppesen",
+   "ente": "STAZIONE AEROMOBILI DELLA MARINA MILITARE",
+   "cf_ente": "80021830734",
+   "cig": "BDA0737DC5",
+   "categorie": [
+    "Pacchetti software per la gestione di licenze"
+   ],
+   "natura": "forniture",
+   "valore": 180000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Taranto",
+   "regione": "Puglia",
+   "pubblicazione": "2026-11-05",
+   "scadenza": "2026-11-09",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/eb23aeb3-fcd5-4c3e-a630-eb5e70a2ec0f",
+   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/gara-asp/40a6e40bb70e3eb7",
+   "punteggio": 0
+  },
+  {
+   "id": "d27b1693-38f3-42f0-aab8-18d0883c79d1",
+   "momento": "gara",
+   "titolo": "AFFIDAMENTO DEL SERVIZIO DI DEPOSITO, CUSTODIA E GESTIONE IN OUTSOURCING DELL'ARCHIVIO DOCUMENTALE – CARTACEO DEL COMUNE DI MARCIANISE PER IL PERIODO DI ANNI TRE",
+   "descrizione": "AFFIDAMENTO DEL SERVIZIO DI DEPOSITO, CUSTODIA E GESTIONE IN OUTSOURCING DELL'ARCHIVIO DOCUMENTALE – CARTACEO DEL COMUNE DI MARCIANISE PER IL PERIODO DI ANNI TRE",
+   "ente": "COMUNE DI MARCIANISE",
+   "cf_ente": "93012960618",
+   "cig": "BD1F40FEB7",
+   "categorie": [
+    "Servizi di gestione documenti"
+   ],
+   "natura": "servizi",
+   "valore": 120296.64,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "MARCIANISE",
+   "regione": null,
+   "pubblicazione": "2026-11-05",
+   "scadenza": "2026-12-07",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/d27b1693-38f3-42f0-aab8-18d0883c79d1",
    "link_gara": "https://comunemarcianise.traspare.com/announcements/491",
    "punteggio": 0
   }
