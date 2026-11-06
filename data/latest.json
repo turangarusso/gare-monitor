@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:47:02Z",
+ "updated": "2026-11-06T12:57:09Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -371,6 +371,29 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/d27b1693-38f3-42f0-aab8-18d0883c79d1",
    "link_gara": "https://comunemarcianise.traspare.com/announcements/491",
    "punteggio": 0
+  },
+  {
+   "id": "e5989d42-1fc4-4fcc-93e3-9cf573d3865e",
+   "momento": "manifestazione",
+   "titolo": "RDA 200106185: Soluzione tecnologica per digitalizzazione del processo di ispezione dei cabine Secondarie",
+   "descrizione": "RDA 200106185: Soluzione tecnologica per digitalizzazione del processo di ispezione dei cabine Secondarie",
+   "ente": "ARETI S.P.A.",
+   "cf_ente": "05816611007",
+   "cig": "BDACCDA618",
+   "categorie": [
+    "Servizi di specificazione di obiettivi per progetti critici"
+   ],
+   "natura": "servizi",
+   "valore": 183900.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Lazio",
+   "regione": "Lazio",
+   "pubblicazione": "2026-11-06",
+   "scadenza": "2027-04-01",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/e5989d42-1fc4-4fcc-93e3-9cf573d3865e",
+   "link_gara": "https://procurement-gruppoacea.app.jaggaer.com/",
+   "punteggio": 1
   }
  ]
 }
