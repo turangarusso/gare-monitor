@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:01:02Z",
+ "updated": "2026-11-07T11:43:45Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -256,29 +256,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/4c209e51-7d40-4930-9015-dfc0db9268be",
    "link_gara": "https://unipa.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G59652",
    "punteggio": 1
-  },
-  {
-   "id": "7681a087-bc14-4218-8380-99c7aa655cfb",
-   "momento": "gara",
-   "titolo": "AFFIDAMENTO DEL SERVIZIO DI DEPOSITO, CUSTODIA E GESTIONE IN OUTSOURCING DELL'ARCHIVIO DOCUMENTALE – CARTACEO DEL COMUNE DI MARCIANISE PER IL PERIODO DI ANNI TRE",
-   "descrizione": "AFFIDAMENTO DEL SERVIZIO DI DEPOSITO, CUSTODIA E GESTIONE IN OUTSOURCING DELL'ARCHIVIO DOCUMENTALE – CARTACEO DEL COMUNE DI MARCIANISE PER IL PERIODO DI ANNI TRE",
-   "ente": "COMUNE DI MARCIANISE",
-   "cf_ente": "93012960618",
-   "cig": "BD1F40FEB7",
-   "categorie": [
-    "Servizi di gestione documenti"
-   ],
-   "natura": "servizi",
-   "valore": 120296.64,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "MARCIANISE",
-   "regione": null,
-   "pubblicazione": "2026-11-04",
-   "scadenza": "2026-11-06",
-   "url": "https://pubblicitalegale.anticorruzione.it/bandi/7681a087-bc14-4218-8380-99c7aa655cfb",
-   "link_gara": "https://comunemarcianise.traspare.com/announcements/491",
-   "punteggio": 0
   },
   {
    "id": "f0258ca7-fac9-4a8a-bb3d-45a946b02b36",
