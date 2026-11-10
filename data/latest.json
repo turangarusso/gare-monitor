@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T21:27:39Z",
+ "updated": "2026-11-10T13:28:20Z",
  "avvisi": [
   {
    "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
@@ -212,29 +212,6 @@
    "punteggio": 1
   },
   {
-   "id": "b898f078-d220-4fd5-8ce1-cd39716e563c",
-   "momento": "gara",
-   "titolo": "6712558 - lotto 1",
-   "descrizione": "FASC 288 Abbonamento annuale licenza applicativo software Foreflight Military Flight Bag Performance e licenza per impiego cartografia elettronica aeronautica Jeppesen",
-   "ente": "STAZIONE AEROMOBILI DELLA MARINA MILITARE",
-   "cf_ente": "80021830734",
-   "cig": "BD9D59CE39",
-   "categorie": [
-    "Pacchetti software per la gestione di licenze"
-   ],
-   "natura": "forniture",
-   "valore": 180000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": null,
-   "regione": null,
-   "pubblicazione": "2026-11-03",
-   "scadenza": "2026-11-09",
-   "url": "https://pubblicitalegale.anticorruzione.it/bandi/b898f078-d220-4fd5-8ce1-cd39716e563c",
-   "link_gara": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/8c07f9780fc728ba",
-   "punteggio": 0
-  },
-  {
    "id": "4c209e51-7d40-4930-9015-dfc0db9268be",
    "momento": "gara",
    "titolo": "Fornitura della piattaforma digitale integrata adattata all'interoperabilità con la piattaforma digitale di Ateneo, a supporto della Comunità di pratica e del Centro di Ricerca DARE della durata di 60 mesi, con pagame…",
@@ -304,29 +281,6 @@
    "punteggio": 1
   },
   {
-   "id": "eb23aeb3-fcd5-4c3e-a630-eb5e70a2ec0f",
-   "momento": "gara",
-   "titolo": "FASC 288 Abbonamento annuale licenza applicativo software Foreflight Military Flight Bag Performance e licenza per impiego cartografia elettronica aeronautica Jeppesen",
-   "descrizione": "FASC 288 Abbonamento annuale licenza applicativo software Foreflight Military Flight Bag Performance e licenza per impiego cartografia elettronica aeronautica Jeppesen",
-   "ente": "STAZIONE AEROMOBILI DELLA MARINA MILITARE",
-   "cf_ente": "80021830734",
-   "cig": "BDA0737DC5",
-   "categorie": [
-    "Pacchetti software per la gestione di licenze"
-   ],
-   "natura": "forniture",
-   "valore": 180000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Taranto",
-   "regione": "Puglia",
-   "pubblicazione": "2026-11-05",
-   "scadenza": "2026-11-09",
-   "url": "https://pubblicitalegale.anticorruzione.it/bandi/eb23aeb3-fcd5-4c3e-a630-eb5e70a2ec0f",
-   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/gara-asp/40a6e40bb70e3eb7",
-   "punteggio": 0
-  },
-  {
    "id": "d27b1693-38f3-42f0-aab8-18d0883c79d1",
    "momento": "gara",
    "titolo": "AFFIDAMENTO DEL SERVIZIO DI DEPOSITO, CUSTODIA E GESTIONE IN OUTSOURCING DELL'ARCHIVIO DOCUMENTALE – CARTACEO DEL COMUNE DI MARCIANISE PER IL PERIODO DI ANNI TRE",
@@ -371,6 +325,52 @@
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/e5989d42-1fc4-4fcc-93e3-9cf573d3865e",
    "link_gara": "https://procurement-gruppoacea.app.jaggaer.com/",
    "punteggio": 1
+  },
+  {
+   "id": "dd2b4382-6bc4-4fc1-b283-fd7aba4906ee",
+   "momento": "manifestazione",
+   "titolo": "Servizio di assistenza informatica Hardware e Software (ambiente didattico e gestionale) dellAccademia Navale ano 2027",
+   "descrizione": "Servizio di assistenza informatica Hardware e Software (ambiente didattico e gestionale) dell Accademia Navale ano 2027",
+   "ente": "ACCADEMIA NAVALE",
+   "cf_ente": "80004080497",
+   "cig": "BDB93550AA",
+   "categorie": [
+    "Servizi di assistenza sistemi"
+   ],
+   "natura": "servizi",
+   "valore": 54000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Livorno",
+   "regione": "Toscana",
+   "pubblicazione": "2026-11-10",
+   "scadenza": "2026-11-30",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/dd2b4382-6bc4-4fc1-b283-fd7aba4906ee",
+   "link_gara": "https://www.marina.difesa.it/documentazione/gare/marinaccad_livorno/Pagine/Servizio-di-assistenza-informatica-Hardware-e-Software-(ambiente-didattico-e-gestionale)-dell%E2%80%99Accademia-Navale-ano-2027.aspx",
+   "punteggio": 3
+  },
+  {
+   "id": "45715adb-b616-4eac-8f10-e3145af5ef36",
+   "momento": "manifestazione",
+   "titolo": "Procedura negoziata ai sensi dell'art. 76, comma 2, lett. b), punto 2, del D.Lgs. 36/2023 per l'affidamento dei servizi di attivazione in modalità SaaS, configurazione, personalizzazione, manutenzione e conduzione in…",
+   "descrizione": "Procedura negoziata ai sensi dell'art. 76, comma 2, lett. b), punto 2, del D.Lgs. 36/2023 per l'affidamento dei servizi di attivazione in modalità SaaS, configurazione, personalizzazione, manutenzione e conduzione in esercizio della piattaforma elixForms per la gestione delle domande di contributo",
+   "ente": "BORSA MERCI TELEMATICA ITALIANA S.C.P.A. (BMTI S.C.P.A.)",
+   "cf_ente": "06044201009",
+   "cig": "BDB3AA1D6A",
+   "categorie": [
+    "Servizi connessi al software"
+   ],
+   "natura": "servizi",
+   "valore": 138000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Roma",
+   "regione": "Lazio",
+   "pubblicazione": "2026-11-10",
+   "scadenza": "2026-11-10",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/45715adb-b616-4eac-8f10-e3145af5ef36",
+   "link_gara": "https://bmti.tuttogare.it/gare/dettaglio.php?codice=61",
+   "punteggio": 2
   }
  ]
 }
