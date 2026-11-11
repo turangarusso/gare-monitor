@@ -1,29 +1,6 @@
 {
- "updated": "2026-11-10T18:41:55Z",
+ "updated": "2026-11-11T12:43:01Z",
  "avvisi": [
-  {
-   "id": "3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
-   "momento": "manifestazione",
-   "titolo": "SERVIZI DI MIGRAZIONE DELL’AMBIENTE SAP, INFRASTRUTTURA CLOUD GESTIONE SISTEMISTICA, APPLICATIVA E SERVIZI PROFESSIONALI CONNESSI",
-   "descrizione": "SERVIZI DI MIGRAZIONE DELL’AMBIENTE SAP, INFRASTRUTTURA CLOUD GESTIONE SISTEMISTICA, APPLICATIVA E SERVIZI PROFESSIONALI CONNESSI",
-   "ente": "AZIENDA MULTISERVIZI DI IGIENE AMBIENTALE DI VERONA S.P.A.",
-   "cf_ente": "02737960233",
-   "cig": "BD813251FD",
-   "categorie": [
-    "Servizi di assistenza software"
-   ],
-   "natura": "servizi",
-   "valore": 210000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Verona",
-   "regione": "Veneto",
-   "pubblicazione": "2026-10-27",
-   "scadenza": "2026-11-10",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/3a0118f5-996d-4bd1-aaba-44daac6ac5c7",
-   "link_gara": "https://amiavr.traspare.com/announcements/298",
-   "punteggio": 4
-  },
   {
    "id": "daddf24d-96db-43da-8916-392e8d73192c",
    "momento": "gara",
@@ -46,29 +23,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/daddf24d-96db-43da-8916-392e8d73192c",
    "link_gara": "https://sua-mbcmm.acquistitelematici.it/tender/719",
    "punteggio": 3
-  },
-  {
-   "id": "cfa324f9-1bd7-4f00-91ed-859eb27e6849",
-   "momento": "manifestazione",
-   "titolo": "AVVISO VOLONTARIO PER LA TRASPARENZA EX ANTE PRELIMINARE ALL'ACQUISIZIONE CON PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO DI GARA, EX ART. 76 D.LGS N. 36/2023, DI PRODOTTI INFUNGIBILI - VERIFICA CONDIZION…",
-   "descrizione": "AVVISO VOLONTARIO PER LA TRASPARENZA EX ANTE PRELIMINARE ALL'ACQUISIZIONE CON PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO DI GARA, EX ART. 76 D.LGS N. 36/2023, DI PRODOTTI INFUNGIBILI - VERIFICA CONDIZIONI INFUNGIBILITA'.",
-   "ente": "ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLA LOMBARDIA E DELL'EMILIA ROMAGNA BRUNO UBERTINI ENTE SANITARIO DI DIRITTO PUBBLICO.",
-   "cf_ente": "00284840170",
-   "cig": "BD849861F6",
-   "categorie": [
-    "Servizi di fornitura di software"
-   ],
-   "natura": "servizi",
-   "valore": 74950.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "ITALIA",
-   "regione": "Lombardia",
-   "pubblicazione": "2026-10-27",
-   "scadenza": "2026-11-10",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/cfa324f9-1bd7-4f00-91ed-859eb27e6849",
-   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/f7247e46a3d09a90",
-   "punteggio": 1
   },
   {
    "id": "de495a72-45e1-41ed-bd7f-f46299242b8c",
@@ -212,29 +166,6 @@
    "punteggio": 1
   },
   {
-   "id": "4c209e51-7d40-4930-9015-dfc0db9268be",
-   "momento": "gara",
-   "titolo": "Fornitura della piattaforma digitale integrata adattata all'interoperabilità con la piattaforma digitale di Ateneo, a supporto della Comunità di pratica e del Centro di Ricerca DARE della durata di 60 mesi, con pagame…",
-   "descrizione": "Fornitura della piattaforma digitale integrata adattata all'interoperabilità con la piattaforma digitale di Ateneo, a supporto della Comunità di pratica e del Centro di Ricerca DARE della durata di 60 mesi, con pagamento anticipato, nell'ambito dell'iniziativa di ricerca denominata DARE - Digital Lifelong Prevention",
-   "ente": "UNIVERSITA' DEGLI STUDI DI PALERMO",
-   "cf_ente": "80023730825",
-   "cig": "BDA1E19FF1",
-   "categorie": [
-    "Servizi di fornitura di software"
-   ],
-   "natura": "servizi",
-   "valore": 120000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Palermo",
-   "regione": "Sicilia",
-   "pubblicazione": "2026-11-04",
-   "scadenza": "2026-11-10",
-   "url": "https://pubblicitalegale.anticorruzione.it/bandi/4c209e51-7d40-4930-9015-dfc0db9268be",
-   "link_gara": "https://unipa.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G59652",
-   "punteggio": 1
-  },
-  {
    "id": "f0258ca7-fac9-4a8a-bb3d-45a946b02b36",
    "momento": "manifestazione",
    "titolo": "Manutenzione apparecchiature aziendali con servizi Dell",
@@ -348,29 +279,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/dd2b4382-6bc4-4fc1-b283-fd7aba4906ee",
    "link_gara": "https://www.marina.difesa.it/documentazione/gare/marinaccad_livorno/Pagine/Servizio-di-assistenza-informatica-Hardware-e-Software-(ambiente-didattico-e-gestionale)-dell%E2%80%99Accademia-Navale-ano-2027.aspx",
    "punteggio": 3
-  },
-  {
-   "id": "45715adb-b616-4eac-8f10-e3145af5ef36",
-   "momento": "manifestazione",
-   "titolo": "Procedura negoziata ai sensi dell'art. 76, comma 2, lett. b), punto 2, del D.Lgs. 36/2023 per l'affidamento dei servizi di attivazione in modalità SaaS, configurazione, personalizzazione, manutenzione e conduzione in…",
-   "descrizione": "Procedura negoziata ai sensi dell'art. 76, comma 2, lett. b), punto 2, del D.Lgs. 36/2023 per l'affidamento dei servizi di attivazione in modalità SaaS, configurazione, personalizzazione, manutenzione e conduzione in esercizio della piattaforma elixForms per la gestione delle domande di contributo",
-   "ente": "BORSA MERCI TELEMATICA ITALIANA S.C.P.A. (BMTI S.C.P.A.)",
-   "cf_ente": "06044201009",
-   "cig": "BDB3AA1D6A",
-   "categorie": [
-    "Servizi connessi al software"
-   ],
-   "natura": "servizi",
-   "valore": 138000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Roma",
-   "regione": "Lazio",
-   "pubblicazione": "2026-11-10",
-   "scadenza": "2026-11-10",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/45715adb-b616-4eac-8f10-e3145af5ef36",
-   "link_gara": "https://bmti.tuttogare.it/gare/dettaglio.php?codice=61",
-   "punteggio": 2
   }
  ]
 }
