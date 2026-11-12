@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:43:20Z",
+ "updated": "2026-11-12T13:46:13Z",
  "avvisi": [
   {
    "id": "daddf24d-96db-43da-8916-392e8d73192c",
@@ -23,29 +23,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/daddf24d-96db-43da-8916-392e8d73192c",
    "link_gara": "https://sua-mbcmm.acquistitelematici.it/tender/719",
    "punteggio": 3
-  },
-  {
-   "id": "de495a72-45e1-41ed-bd7f-f46299242b8c",
-   "momento": "manifestazione",
-   "titolo": "Fornitura di licenze software LIFERAY per l'anno 2027",
-   "descrizione": "Fornitura di licenze software LIFERAY per l'anno 2027",
-   "ente": "INARCASSA CASSA NAZIONALE DI PREVIDENZA ED ASSISTENZA PER GLI INGEGNERI ED ARCHITETTI LIBERI PROFESSIONISTI",
-   "cf_ente": "80122170584",
-   "cig": "BD853A3A76",
-   "categorie": [
-    "Pacchetti software per server web"
-   ],
-   "natura": "forniture",
-   "valore": 180000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Roma",
-   "regione": "Lazio",
-   "pubblicazione": "2026-10-27",
-   "scadenza": "2026-11-11",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/de495a72-45e1-41ed-bd7f-f46299242b8c",
-   "link_gara": "https://adepp-appalti.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G12270",
-   "punteggio": 1
   },
   {
    "id": "e04da944-f9e8-467c-ab23-df7f31b8e6f3",
