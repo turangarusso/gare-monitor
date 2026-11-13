@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:57:49Z",
+ "updated": "2026-11-13T13:06:36Z",
  "avvisi": [
   {
    "id": "daddf24d-96db-43da-8916-392e8d73192c",
@@ -256,6 +256,29 @@
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/dd2b4382-6bc4-4fc1-b283-fd7aba4906ee",
    "link_gara": "https://www.marina.difesa.it/documentazione/gare/marinaccad_livorno/Pagine/Servizio-di-assistenza-informatica-Hardware-e-Software-(ambiente-didattico-e-gestionale)-dell%E2%80%99Accademia-Navale-ano-2027.aspx",
    "punteggio": 3
+  },
+  {
+   "id": "4e39443e-9b1a-4d37-b70a-d7b3d81078b1",
+   "momento": "gara",
+   "titolo": "SERVIZIO TRIENNALE DI ASSISTENZA E MANUTENZIONE HARDWARE E SOFTWARE",
+   "descrizione": "PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO TRIENNALE DI ASSISTENZA E MANUTENZIONE HARDWARE E SOFTWARE RELATIVO A PERSONAL COMPUTER E PERIFERICHE PRESSO GLI UFFICI DELLA PROVINCIA DI FERRARA",
+   "ente": "PROVINCIA DI FERRARA",
+   "cf_ente": "00334500386",
+   "cig": "BDC8C45EA8",
+   "categorie": [
+    "Servizi di assistenza informatica per computer"
+   ],
+   "natura": "servizi",
+   "valore": 108196.73,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "FERRARA",
+   "regione": "Emilia-Romagna",
+   "pubblicazione": "2026-11-13",
+   "scadenza": "2026-12-15",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/4e39443e-9b1a-4d37-b70a-d7b3d81078b1",
+   "link_gara": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18469073",
+   "punteggio": 1
   }
  ]
 }
