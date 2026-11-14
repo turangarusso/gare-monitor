@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:33:23Z",
+ "updated": "2026-11-14T12:10:59Z",
  "avvisi": [
   {
    "id": "daddf24d-96db-43da-8916-392e8d73192c",
@@ -46,29 +46,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/e04da944-f9e8-467c-ab23-df7f31b8e6f3",
    "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/68d2e85810c59eb9",
    "punteggio": 3
-  },
-  {
-   "id": "4aa0c11f-fad3-43b6-9322-8fa7a14b180b",
-   "momento": "manifestazione",
-   "titolo": "INDAGINE ESPLORATIVA DI MERCATO VOLTA A RACCOGLIERE PREVENTIVI FINALIZZATI ALL AFFIDAMENTO DI UN SERVIZIO ACCESSO AI MODELLI DI INTELLIGENZA ARTIFICIALE DI OPENAI E DI ALTRI PRODUTTORI PRESENTI NEL CATALOGO MICROSOFT…",
-   "descrizione": "INDAGINE ESPLORATIVA DI MERCATO VOLTA A RACCOGLIERE PREVENTIVI FINALIZZATI ALL AFFIDAMENTO DI UN SERVIZIO ACCESSO AI MODELLI DI INTELLIGENZA ARTIFICIALE DI OPENAI E DI ALTRI PRODUTTORI PRESENTI NEL CATALOGO MICROSOFT FOUNDRY",
-   "ente": "CONSIGLIO NAZIONALE DELLE RICERCHE",
-   "cf_ente": "80054330586",
-   "cig": "BD8CFDABD3",
-   "categorie": [
-    "Servizi di fornitura di software"
-   ],
-   "natura": "servizi",
-   "valore": 39900.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Pisa",
-   "regione": "Toscana",
-   "pubblicazione": "2026-10-29",
-   "scadenza": "2026-11-13",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/4aa0c11f-fad3-43b6-9322-8fa7a14b180b",
-   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/52998221a04c46f0",
-   "punteggio": 1
   },
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
