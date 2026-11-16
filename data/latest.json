@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:44:21Z",
+ "updated": "2026-11-16T13:38:38Z",
  "avvisi": [
   {
    "id": "daddf24d-96db-43da-8916-392e8d73192c",
@@ -255,6 +255,29 @@
    "scadenza": "2026-12-15",
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/4e39443e-9b1a-4d37-b70a-d7b3d81078b1",
    "link_gara": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18469073",
+   "punteggio": 1
+  },
+  {
+   "id": "f8f34995-cac7-4c09-88ff-09b541022483",
+   "momento": "manifestazione",
+   "titolo": "ATTIVAZIONE V-LAN WIRED_PROC. 2157/2026_RB",
+   "descrizione": "ATTIVAZIONE V-LAN WIRED_PROC. 2157/2026_RB",
+   "ente": "TRENORD S.R.L.",
+   "cf_ente": "06705490966",
+   "cig": "BDCB7FA021",
+   "categorie": [
+    "Servizi di rete locale"
+   ],
+   "natura": "servizi",
+   "valore": 35000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "ITALIA",
+   "regione": null,
+   "pubblicazione": "2026-11-16",
+   "scadenza": "2026-11-16",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/f8f34995-cac7-4c09-88ff-09b541022483",
+   "link_gara": "https://www.trenord.it/",
    "punteggio": 1
   }
  ]
