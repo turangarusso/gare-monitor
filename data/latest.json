@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T21:04:10Z",
+ "updated": "2026-11-17T14:23:45Z",
  "avvisi": [
   {
    "id": "daddf24d-96db-43da-8916-392e8d73192c",
@@ -22,29 +22,6 @@
    "scadenza": "2026-11-17",
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/daddf24d-96db-43da-8916-392e8d73192c",
    "link_gara": "https://sua-mbcmm.acquistitelematici.it/tender/719",
-   "punteggio": 3
-  },
-  {
-   "id": "e04da944-f9e8-467c-ab23-df7f31b8e6f3",
-   "momento": "manifestazione",
-   "titolo": "Avviso di indagine di mercato per la selezione, tramite piattaforma elettronica, di operatori economici da invitare alla gara mediante RDO Semplice ad inviti sul MePA (Mercato Elettronico della Pubblica Amministrazion…",
-   "descrizione": "Avviso di indagine di mercato per la selezione, tramite piattaforma elettronica, di operatori economici da invitare alla gara mediante RDO Semplice ad inviti sul MePA (Mercato Elettronico della Pubblica Amministrazione) ai sensi dell'art. 50, comma 1, lettera e), del D.Lgs. 36/2023 per l'affidamento del servizio di assistenza e manutenzione degli asset HPE dell'ASL Città di Torino, comprensivo di servizio di reperibilità sistemistica e servizi professionali a consumo, per 12 mesi, a decorrere dal 01.01.2027 al 31.12.2027. Importo a base d'asta pari ad euro 215.000,00 oneri fiscali esclusi.",
-   "ente": "AZIENDA SANITARIA LOCALE 'CITTA' DI TORINO'",
-   "cf_ente": "11632570013",
-   "cig": "BD90611924",
-   "categorie": [
-    "Servizi di assistenza tecnica informatica"
-   ],
-   "natura": "servizi",
-   "valore": 215000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "ITALIA",
-   "regione": "Piemonte",
-   "pubblicazione": "2026-10-29",
-   "scadenza": "2026-11-16",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/e04da944-f9e8-467c-ab23-df7f31b8e6f3",
-   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/68d2e85810c59eb9",
    "punteggio": 3
   },
   {
@@ -92,32 +69,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/1a586798-7548-47f4-ba88-29c994839b6d",
    "link_gara": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/96e95ef9b77dc020",
    "punteggio": 0
-  },
-  {
-   "id": "597818e4-f2c5-4bc8-abe2-3b1cee5b586d",
-   "momento": "manifestazione",
-   "titolo": "APPALTO PER LA FORNITURA DI LICENZE SOFTWARE E SERVIZI ACCESSORI PER LA DURATA DI MESI 12 IN FAVORE DELLA POLIZIA LOCALE DI VENEZIA NELL’AMBITO DEL PROGETTO FINANZIATO DALLA COMMISSIONE EUROPEA NR. 101101938 - “INTERC…",
-   "descrizione": "APPALTO PER LA FORNITURA DI LICENZE SOFTWARE E SERVIZI ACCESSORI PER LA DURATA DI MESI 12 IN FAVORE DELLA POLIZIA LOCALE DI VENEZIA NELL’AMBITO DEL PROGETTO FINANZIATO DALLA COMMISSIONE EUROPEA NR. 101101938 - “INTERCEPT ONLINE RECRUITMENT AND ADVERTISEMENT TO DISRUPT THE THB MODEL”- INTERCEPTED",
-   "ente": "COMUNE DI VENEZIA",
-   "cf_ente": "00339370272",
-   "cig": "BD9EBA1A07",
-   "categorie": [
-    "Pacchetti software analitici o scientifici",
-    "Pacchetti software analitici o scientifici",
-    "Pacchetti software analitici o scientifici",
-    "Pacchetti software analitici o scientifici"
-   ],
-   "natura": "servizi",
-   "valore": 158357.4,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Venezia",
-   "regione": "Veneto",
-   "pubblicazione": "2026-11-03",
-   "scadenza": "2026-11-16",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/597818e4-f2c5-4bc8-abe2-3b1cee5b586d",
-   "link_gara": "https://venezia.acquistitelematici.it/tender/1497",
-   "punteggio": 1
   },
   {
    "id": "f0258ca7-fac9-4a8a-bb3d-45a946b02b36",
@@ -255,29 +206,6 @@
    "scadenza": "2026-12-15",
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/4e39443e-9b1a-4d37-b70a-d7b3d81078b1",
    "link_gara": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18469073",
-   "punteggio": 1
-  },
-  {
-   "id": "f8f34995-cac7-4c09-88ff-09b541022483",
-   "momento": "manifestazione",
-   "titolo": "ATTIVAZIONE V-LAN WIRED_PROC. 2157/2026_RB",
-   "descrizione": "ATTIVAZIONE V-LAN WIRED_PROC. 2157/2026_RB",
-   "ente": "TRENORD S.R.L.",
-   "cf_ente": "06705490966",
-   "cig": "BDCB7FA021",
-   "categorie": [
-    "Servizi di rete locale"
-   ],
-   "natura": "servizi",
-   "valore": 35000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "ITALIA",
-   "regione": null,
-   "pubblicazione": "2026-11-16",
-   "scadenza": "2026-11-16",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/f8f34995-cac7-4c09-88ff-09b541022483",
-   "link_gara": "https://www.trenord.it/",
    "punteggio": 1
   }
  ]
