@@ -1,29 +1,6 @@
 {
- "updated": "2026-11-17T19:52:57Z",
+ "updated": "2026-11-18T13:57:44Z",
  "avvisi": [
-  {
-   "id": "daddf24d-96db-43da-8916-392e8d73192c",
-   "momento": "gara",
-   "titolo": "PROCEDURA APERTA, PER L’AFFIDAMENTO DEL SERVIZIO DI SVILUPPI EVOLUTIVI DEL SISTEMA INFORMATIVO-GESTIONALE BASATO SU TECNOLOGIA MICROSOFT DYNAMIC 365 BUSINESS CENTRAL IN VERSIONE CLOUD SAAS, PLAFOND ASSISTENZA, ACQUISI…",
-   "descrizione": "PROCEDURA APERTA, PER L’AFFIDAMENTO DEL SERVIZIO DI SVILUPPI EVOLUTIVI DEL SISTEMA INFORMATIVO-GESTIONALE BASATO SU TECNOLOGIA MICROSOFT DYNAMIC 365 BUSINESS CENTRAL IN VERSIONE CLOUD SAAS, PLAFOND ASSISTENZA, ACQUISIZIONE EXTENSIONS E FORNITURA LICENZE MICROSOFT -BIENNIO 2027-2028, IN FAVORE DELL’AGENZIA PER LA FORMAZIONE, L’ORIENTAMENTO E IL LAVORO DELLA PROVINCIA DI MONZA E DELLA BRIANZA (AFOL MB), CON IL CRITERIO DELL’OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA SULLA BASE DEL MIGLIOR RAPPORTO QUALITÀ/PREZZO",
-   "ente": "PROVINCIA DI MONZA E DELLA BRIANZA",
-   "cf_ente": "94616010156",
-   "cig": "BD7D65B7D0",
-   "categorie": [
-    "Servizi di manutenzione e riparazione di software"
-   ],
-   "natura": "servizi",
-   "valore": 175000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Monza e della Brianza",
-   "regione": "Lombardia",
-   "pubblicazione": "2026-10-26",
-   "scadenza": "2026-11-17",
-   "url": "https://pubblicitalegale.anticorruzione.it/bandi/daddf24d-96db-43da-8916-392e8d73192c",
-   "link_gara": "https://sua-mbcmm.acquistitelematici.it/tender/719",
-   "punteggio": 3
-  },
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
    "momento": "gara",
