@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:29:50Z",
+ "updated": "2026-11-20T14:00:12Z",
  "avvisi": [
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
@@ -184,6 +184,29 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/4e39443e-9b1a-4d37-b70a-d7b3d81078b1",
    "link_gara": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18469073",
    "punteggio": 1
+  },
+  {
+   "id": "78601266-aeed-475a-a96a-0b3a84f56ee3",
+   "momento": "manifestazione",
+   "titolo": "RDA 200105911: Piattaforma Cyber Security Awareness OT per il contesto industriale Areti",
+   "descrizione": "RDA 200105911: Piattaforma Cyber Security Awareness OT per il contesto industriale Areti",
+   "ente": "ARETI S.P.A.",
+   "cf_ente": "05816611007",
+   "cig": "BDA3105D57",
+   "categorie": [
+    "Pacchetti software di sicurezza"
+   ],
+   "natura": "forniture",
+   "valore": 94800.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Lazio",
+   "regione": "Lazio",
+   "pubblicazione": "2026-11-20",
+   "scadenza": "2027-03-26",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/78601266-aeed-475a-a96a-0b3a84f56ee3",
+   "link_gara": "https://procurement-gruppoacea.app.jaggaer.com/",
+   "punteggio": 2
   }
  ]
 }
