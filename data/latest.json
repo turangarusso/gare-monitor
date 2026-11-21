@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:07:55Z",
+ "updated": "2026-11-21T13:28:04Z",
  "avvisi": [
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
@@ -46,29 +46,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/1a586798-7548-47f4-ba88-29c994839b6d",
    "link_gara": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/96e95ef9b77dc020",
    "punteggio": 0
-  },
-  {
-   "id": "f0258ca7-fac9-4a8a-bb3d-45a946b02b36",
-   "momento": "manifestazione",
-   "titolo": "Manutenzione apparecchiature aziendali con servizi Dell",
-   "descrizione": "Manutenzione apparecchiature aziendali con servizi Dell",
-   "ente": "AZIENDA SANITARIA LOCALE CN1",
-   "cf_ente": "01128930045",
-   "cig": "BDA973B637",
-   "categorie": [
-    "Servizi di assistenza tecnica informatica"
-   ],
-   "natura": "servizi",
-   "valore": 210000.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Cuneo",
-   "regione": "Piemonte",
-   "pubblicazione": "2026-11-05",
-   "scadenza": "2026-11-20",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/f0258ca7-fac9-4a8a-bb3d-45a946b02b36",
-   "link_gara": "https://www.sintel.regione.lombardia.it/eprocdata/sintelSearch.xhtml",
-   "punteggio": 2
   },
   {
    "id": "91cd5f30-240b-48d0-8ede-c0d6f9367057",
