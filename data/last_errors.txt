@@ -1,5 +1,5 @@
-Run del 2026-11-21 13:28 UTC
+Run del 2026-11-22 13:21 UTC
 
 [riepilogo]
-74 avvisi scaricati, 1 tenuti, 0 nuovi, 51 esiti. Scarti: {'scaduto': 1, 'momento esito': 51, 'momento altro': 5, 'importo alto': 8, 'momento modifica': 8}
+52 avvisi scaricati, 1 tenuti, 0 nuovi, 37 esiti. Scarti: {'scaduto': 1, 'momento esito': 37, 'momento altro': 4, 'importo alto': 5, 'momento modifica': 4}
 
