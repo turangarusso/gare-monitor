@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:21:01Z",
+ "updated": "2026-11-23T15:58:03Z",
  "avvisi": [
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
@@ -183,6 +183,29 @@
    "scadenza": "2027-03-26",
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/78601266-aeed-475a-a96a-0b3a84f56ee3",
    "link_gara": "https://procurement-gruppoacea.app.jaggaer.com/",
+   "punteggio": 2
+  },
+  {
+   "id": "a5b90385-9f2d-4e12-9387-a6a843d7f339",
+   "momento": "manifestazione",
+   "titolo": "Servizio di assistenza informatica, manutenzione dei sistemi, gestione dei backup, cybersicurezza, supporto GDPR e supporto amministrativo al servizio informatico comunale.",
+   "descrizione": "Servizio di assistenza informatica, manutenzione dei sistemi, gestione dei backup, cybersicurezza, supporto GDPR e supporto amministrativo al servizio informatico comunale.",
+   "ente": "COMUNE DI MONTE SAN SAVINO",
+   "cf_ente": "00272160516",
+   "cig": "BDE9972232",
+   "categorie": [
+    "Servizi informatici"
+   ],
+   "natura": "servizi",
+   "valore": 195000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Arezzo",
+   "regione": "Toscana",
+   "pubblicazione": "2026-11-23",
+   "scadenza": "2026-12-04",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/a5b90385-9f2d-4e12-9387-a6a843d7f339",
+   "link_gara": "https://webs.rete.toscana.it/sitat/trasparenza/#/procedura?uuid=START_f8c7af9f-eec3-4c7a-14639-1025f46dff3e",
    "punteggio": 2
   }
  ]
