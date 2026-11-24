@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:41:26Z",
+ "updated": "2026-11-24T15:53:25Z",
  "avvisi": [
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
@@ -206,6 +206,52 @@
    "scadenza": "2026-12-04",
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/a5b90385-9f2d-4e12-9387-a6a843d7f339",
    "link_gara": "https://webs.rete.toscana.it/sitat/trasparenza/#/procedura?uuid=START_f8c7af9f-eec3-4c7a-14639-1025f46dff3e",
+   "punteggio": 2
+  },
+  {
+   "id": "2bf965e3-3dc3-4a7c-b4ec-1d2167d5f530",
+   "momento": "manifestazione",
+   "titolo": "Manutenzione correttiva, evolutiva eadeguativa dei servizi informativi",
+   "descrizione": "Servizio di supporto per la manutenzione correttiva, evolutiva e adeguativa dei servizi informativi",
+   "ente": "UNIVERSITA' DEGLI STUDI DI TORINO",
+   "cf_ente": "80088230018",
+   "cig": "BDEFFB55C9",
+   "categorie": [
+    "Servizi di consulenza e assistenza informatica"
+   ],
+   "natura": "servizi",
+   "valore": 166400.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Torino",
+   "regione": "Piemonte",
+   "pubblicazione": "2026-11-24",
+   "scadenza": "2026-12-04",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/2bf965e3-3dc3-4a7c-b4ec-1d2167d5f530",
+   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/1438fbab0533a8c8",
+   "punteggio": 2
+  },
+  {
+   "id": "971794ba-5515-4c18-b92e-ab2cf7f8ed3d",
+   "momento": "manifestazione",
+   "titolo": "SERVIZIO DI INTEGRAZIONE PACS PHILIPS CON VNA-PACS REGIONALE IN USO PRESSO I PRESIDI DELL’ASST DELLA FRANCIACORTA",
+   "descrizione": "SERVIZIO DI INTEGRAZIONE PACS PHILIPS CON VNA-PACS REGIONALE IN USO PRESSO I PRESIDI DELL’ASST DELLA FRANCIACORTA",
+   "ente": "AZIENDA SOCIO SANITARIA TERRITORIALE DELLA FRANCIACORTA",
+   "cf_ente": "03775820982",
+   "cig": "BDEA20ECFB",
+   "categorie": [
+    "Servizi di manutenzione di sistemi e di assistenza"
+   ],
+   "natura": "servizi",
+   "valore": 75200.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Brescia",
+   "regione": "Lombardia",
+   "pubblicazione": "2026-11-24",
+   "scadenza": "2026-12-07",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/971794ba-5515-4c18-b92e-ab2cf7f8ed3d",
+   "link_gara": "https://www.sintel.regione.lombardia.it/eprocdata/sintelSearch.xhtml",
    "punteggio": 2
   }
  ]
