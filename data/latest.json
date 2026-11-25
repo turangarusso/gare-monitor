@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:15:46Z",
+ "updated": "2026-11-25T15:35:58Z",
  "avvisi": [
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
@@ -46,29 +46,6 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/1a586798-7548-47f4-ba88-29c994839b6d",
    "link_gara": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/96e95ef9b77dc020",
    "punteggio": 0
-  },
-  {
-   "id": "91cd5f30-240b-48d0-8ede-c0d6f9367057",
-   "momento": "manifestazione",
-   "titolo": "Affidamento dei “Servizi di supporto alla gestione inventariale dei beni mobili dell’Università del Piemonte Orientale”, per la durata di 4 (quattro) anni.",
-   "descrizione": "Affidamento dei “Servizi di supporto alla gestione inventariale dei beni mobili dell’Università del Piemonte Orientale”, per la durata di 4 (quattro) anni.",
-   "ente": "UNIVERSITA' DEGLI STUDI DEL PIEMONTE ORIENTALE 'AMEDEO AVOGADRO'",
-   "cf_ente": "94021400026",
-   "cig": "BDA72A11DA",
-   "categorie": [
-    "Servizi di gestione dati"
-   ],
-   "natura": "servizi",
-   "valore": 142500.0,
-   "valore_aggiudicato": null,
-   "aggiudicatari": [],
-   "luogo": "Vercelli",
-   "regione": "Piemonte",
-   "pubblicazione": "2026-11-05",
-   "scadenza": "2026-11-24",
-   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/91cd5f30-240b-48d0-8ede-c0d6f9367057",
-   "link_gara": "https://portalegareuniupo.traspare.com/announcements/10786",
-   "punteggio": 1
   },
   {
    "id": "d27b1693-38f3-42f0-aab8-18d0883c79d1",
@@ -253,6 +230,52 @@
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/971794ba-5515-4c18-b92e-ab2cf7f8ed3d",
    "link_gara": "https://www.sintel.regione.lombardia.it/eprocdata/sintelSearch.xhtml",
    "punteggio": 2
+  },
+  {
+   "id": "a84328f6-bf21-41c3-93e2-c8f317dd749a",
+   "momento": "manifestazione",
+   "titolo": "Avviso di indagine di mercato finalizzato all'individuazione di operatori economici da invitare alla procedura per il rinnovo dei servizi FortiCare e Unified Threat Protection (UTP) relativi a n. 2 firewall Fortinet F…",
+   "descrizione": "Avviso di indagine di mercato finalizzato all'individuazione di operatori economici da invitare alla procedura per il rinnovo dei servizi FortiCare e Unified Threat Protection (UTP) relativi a n. 2 firewall Fortinet FortiGate 600F, dalla naturale scadenza del 18/12/2026 fino al 31/12/2028.",
+   "ente": "COMUNE DI TORINO",
+   "cf_ente": "00514490010",
+   "cig": "BDF4A830DF",
+   "categorie": [
+    "Manutenzione di software di tecnologia dell'informazione"
+   ],
+   "natura": "servizi",
+   "valore": 67900.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Torino",
+   "regione": "Piemonte",
+   "pubblicazione": "2026-11-25",
+   "scadenza": "2026-12-01",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/a84328f6-bf21-41c3-93e2-c8f317dd749a",
+   "link_gara": "https://www.acquistinretepa.it/bandi/negoziata/adi/83d7531d13040bf9",
+   "punteggio": 1
+  },
+  {
+   "id": "e63c669d-6692-4f09-b536-00b8c75197f2",
+   "momento": "gara",
+   "titolo": "SERVIZIO DI CONNETTIVITÀ CON SISTEMA DI INTERCONNESSIONE DEDICATO PER LE SEDI DELL’A.S.P. FIRENZE MONTEDOMINI",
+   "descrizione": "SERVIZIO DI CONNETTIVITÀ CON SISTEMA DI INTERCONNESSIONE DEDICATO PER LE SEDI DELL’A.S.P. FIRENZE MONTEDOMINI",
+   "ente": "MONTEDOMINI AZIENDA PUBBLICA DI SERVIZI ALLA PERSONA",
+   "cf_ente": "80001110487",
+   "cig": "BDF65F788D",
+   "categorie": [
+    "Servizi di provider"
+   ],
+   "natura": "servizi",
+   "valore": 165600.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "ITALIA",
+   "regione": null,
+   "pubblicazione": "2026-11-25",
+   "scadenza": "2026-12-28",
+   "url": "https://pubblicitalegale.anticorruzione.it/bandi/e63c669d-6692-4f09-b536-00b8c75197f2",
+   "link_gara": "https://montedomini.acquistitelematici.it/tender-esiti/dettaglio/592",
+   "punteggio": 0
   }
  ]
 }
