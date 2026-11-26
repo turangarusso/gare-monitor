@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:29:14Z",
+ "updated": "2026-11-26T15:15:28Z",
  "avvisi": [
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
@@ -276,6 +276,52 @@
    "url": "https://pubblicitalegale.anticorruzione.it/bandi/e63c669d-6692-4f09-b536-00b8c75197f2",
    "link_gara": "https://montedomini.acquistitelematici.it/tender-esiti/dettaglio/592",
    "punteggio": 0
+  },
+  {
+   "id": "0452d8fc-52ea-4ff6-8bee-70daf276ade2",
+   "momento": "manifestazione",
+   "titolo": "FORNITURA DI LICENZE SOFTWARE QLIK SENSE E QLIKVIEW E DEI SERVIZI DI ASSISTENZA SPECIALISTICA A SUPPORTO DELLA PIATTAFORMA DI BUSINESS INTELLIGENCE UTILIZZATA DALLE AZIENDE SANITARIE TERRITORIALI DELLA REGIONE MARCHE…",
+   "descrizione": "FORNITURA DI LICENZE SOFTWARE QLIK SENSE E QLIKVIEW E DEI SERVIZI DI ASSISTENZA SPECIALISTICA A SUPPORTO DELLA PIATTAFORMA DI BUSINESS INTELLIGENCE UTILIZZATA DALLE AZIENDE SANITARIE TERRITORIALI DELLA REGIONE MARCHE AI SENSI DELLART. 50, COMMA 1, LETTERA E) DEL D.LGS. N. 36/2023",
+   "ente": "ENTE REGIONE MARCHE",
+   "cf_ente": "80008630420",
+   "cig": "BDF9A5C550",
+   "categorie": [
+    "Pacchetti software e sistemi di informazione"
+   ],
+   "natura": "forniture",
+   "valore": 95265.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Ancona",
+   "regione": "Marche",
+   "pubblicazione": "2026-11-26",
+   "scadenza": "2026-12-01",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/0452d8fc-52ea-4ff6-8bee-70daf276ade2",
+   "link_gara": "https://appalti-ast2an.sanita.marche.it/PortaleAppalti/it/procedure/codice/G01602",
+   "punteggio": 3
+  },
+  {
+   "id": "4fd22d48-90f4-4c58-b262-1350702285e9",
+   "momento": "manifestazione",
+   "titolo": "Servizio di fornitura di software per la gestione dei sistemi ALPI e delle prestazioni aggiuntive (comprensiva di servizi di installazione, formazione, avviamento, help desk, manutenzione evolutiva a consumo)",
+   "descrizione": "Avviso manifestazione di interesse - Procedura negoziata ex art. 50, comma 1, lett. e) D.Lgs. 36/2023, finalizzata all'affidamento dellafornitura di una soluzione software per la gestione dei sistemi ALPI e delle prestazioni aggiuntive",
+   "ente": "ASL ROMA 4",
+   "cf_ente": "04743741003",
+   "cig": "BDFB292012",
+   "categorie": [
+    "Servizi di fornitura di software"
+   ],
+   "natura": "servizi",
+   "valore": 139000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Roma",
+   "regione": "Lazio",
+   "pubblicazione": "2026-11-26",
+   "scadenza": "2026-12-09",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/4fd22d48-90f4-4c58-b262-1350702285e9",
+   "link_gara": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/dettaglio-bando?tipo_doc=BANDO_GARA_PORTALE&id_doc=24394855",
+   "punteggio": 2
   }
  ]
 }
