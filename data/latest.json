@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:12:21Z",
+ "updated": "2026-11-27T15:04:39Z",
  "avvisi": [
   {
    "id": "41e04ab1-7efb-4590-880b-bdd44382ec33",
@@ -321,6 +321,52 @@
    "scadenza": "2026-12-09",
    "url": "https://pubblicitalegale.anticorruzione.it/avvisi/4fd22d48-90f4-4c58-b262-1350702285e9",
    "link_gara": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/dettaglio-bando?tipo_doc=BANDO_GARA_PORTALE&id_doc=24394855",
+   "punteggio": 2
+  },
+  {
+   "id": "0fd94bdd-e3b4-4a32-a369-be0ca56746ab",
+   "momento": "manifestazione",
+   "titolo": "Manifestazione di interesse finalizzata all'indizione, ai sensi dell'art. 50, comma 1, lett. e) del d.lgs. 36/2023, della procedura negoziata per l'affidamento DEI SERVIZI DI PROGETTAZIONE E REALIZZAZIONE DEL SISTEMA…",
+   "descrizione": "Manifestazione di interesse finalizzata all'indizione, ai sensi dell'art. 50, comma 1, lett. e) del d.lgs. 36/2023, della procedura negoziata per l'affidamento DEI SERVIZI DI PROGETTAZIONE E REALIZZAZIONE DEL SISTEMA DI COMUNICAZIONE E DEI CONTENUTI MULTIMEDIALI DELLA GALLERIA MUSEALE ARCHEOLOGICA DI PIAZZA MUNICIPIO, COMPRENSIVI DELLA PRODUZIONE AUDIOVISIVA, DELLA PROGETTAZIONE GRAFICA ED EDITORIALE, DEL SUPPORTO TECNICO ALLA PRODUZIONE DEI PANNELLI E DELLE DIDASCALIE, NONCHE' DELLE ATTIVITA' DI INSTALLAZIONE, CONFIGURAZIONE, INTEGRAZIONE, PROVA FUNZIONALE, MESSA IN ESERCIZIO E VERIFICA DI CONFORMITA' DEL SISTEMA MULTIMEDIALE",
+   "ente": "COMUNE DI NAPOLI",
+   "cf_ente": "80014890638",
+   "cig": "BE020BC916",
+   "categorie": [
+    "Servizi di programmazione di software di sistemi e di utente"
+   ],
+   "natura": "servizi",
+   "valore": 207600.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "Napoli",
+   "regione": "Campania",
+   "pubblicazione": "2026-11-27",
+   "scadenza": "2026-12-14",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/0fd94bdd-e3b4-4a32-a369-be0ca56746ab",
+   "link_gara": "https://acquistitelematici.comune.napoli.it/PortaleAppalti/it/procedure/codice/G06379",
+   "punteggio": 4
+  },
+  {
+   "id": "4bb34673-690a-42d3-b9a8-2fd04d6f9cdf",
+   "momento": "manifestazione",
+   "titolo": "fornitura di licenze Veeam Backup & Replication versione 13 e servizi connessi",
+   "descrizione": "Avviso di indagine di mercato propedeutica all'affidamento ai sensi dell'art. 50, c. 1, lett. e) del d.lgs. 36/2023 per la fornitura di licenze software Veeam e servizi connessi per la durata di 5 anni",
+   "ente": "AZIENDA SANITARIA PROVINCIALE RG",
+   "cf_ente": "01426410880",
+   "cig": "BDFD1206FB",
+   "categorie": [
+    "Servizi di assistenza informatica"
+   ],
+   "natura": "forniture",
+   "valore": 140000.0,
+   "valore_aggiudicato": null,
+   "aggiudicatari": [],
+   "luogo": "ISOLE",
+   "regione": null,
+   "pubblicazione": "2026-11-27",
+   "scadenza": "2026-12-04",
+   "url": "https://pubblicitalegale.anticorruzione.it/avvisi/4bb34673-690a-42d3-b9a8-2fd04d6f9cdf",
+   "link_gara": "https://app.albofornitori.it/alboeproc/albo_aspragusa",
    "punteggio": 2
   }
  ]
